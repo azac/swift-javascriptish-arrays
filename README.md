@@ -1,4 +1,4 @@
-swift-javascriptish-arrays
+Javascriptish Swift Arrays
 ==========================
 
 Extension to make swift arrays feel more JavaScript-like. Under construction.
